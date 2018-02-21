@@ -17,7 +17,7 @@
         </plugins>
     </build>
   <name>Simple Maven example</name>
-  <url>https://jitpack.io/#jitpack/binary_dependency_test/0.1</url>
+  <url>https://jitpack.io/#jitpack/binary_dependency_softeng/0.1</url>
 
 <dependencies>
     <dependency>
